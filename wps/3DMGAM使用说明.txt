@@ -1,0 +1,25 @@
+侠盗猎车5 真实的布娃娃物理mod
+
+　　　　　      ╭═══════════════╮
+　　　　　　　　║       【3DMGAME游戏网】      ║
+　╭══════┤  　http://www.3dMgame.com　  ├══════╮
+　║　　　　　　║　　http://bbs.3dmgame.com　  ║　　　　　　║
+　║　　　　　　║　　　　　　　　　　　　　　　║            ║
+　║　　　　　　╰═══════════════╯　　　　　　║
+　║　　　　　　　　　　　　　　　　　　　　　　　　　　　　　║
+　║　　　　　　　　　　　　　　　　　　　　　　　　　　　　　║
+　║ 本站提供的各类游戏，工具及文章，只可研究学习，本站对使用 ║
+　║ 这些游戏（工具）而导致的一切后果，不承担任何责任　　　　 ║
+　║　　　　　　　　　　　　　　　　　　　　　　　　　　　　　║　　 
+　║　　　　　　　　　　　　　　　　　　　　　　　　　　　　　║
+　║　　　　　　　　　　　　　　　　　　　　　　　　　　　　　║
+　║　　　　　　　　　　　　　　　　　　　　　　　　　　　　　║
+　║　　╭───────────────────────╮　　║
+　╰══┤　　  【3DMGAME网】 http://www.3dmgame.com　  ├══╯
+　　　　╰───────────────────────╯ 
+
+下载说明:
+
+1.确认MOD是否需要前置MOD以及是否为你游戏的版本适用（注：部分可以通用哪怕版本不同，建议使用1.33版本GTA5去加载MOD）。
+
+安装方法 下载好之后将压缩包内的ERO1.9.4.oiv解压桌面来 然后用openiv进行安装到mods文件夹内即可

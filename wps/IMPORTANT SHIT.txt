@@ -1,0 +1,189 @@
+GTA V was the most dissappointing when it came to Euphoria including games. RDR and Max Payne 3 were the best and IV didn't come much behind. What I've done is bring GTA V to the same level or close to what those two games represent of the Euphoria real-time ragdolls. Much work was involved to ensure best reactions GTA V Euphoria can do.
+
+<b>Features:</b>
+
+-Targets will try to balance much longer if they're alive after shot
+-Targets grab and hold where they're hurt and try to balance at the same time (Much like RDR), neck shots look extremely brutal 'cause of this when peds try to stop the bleeding with their hands
+-Shooting someones leg now reproduces correct reaction from them, trying to balance but eventually collapsing if hurt enough
+-Targets can enter a shock-state when shot in chest
+-No more weird force shit when blasting someone up-close (Shotgun to face for example lifted target of the ground to create that "Hollywood" effect)
+-Chance to drop on knees on death and stay there for a while
+-Armed individuals will sometimes enter "last stand" and shoot you when balancing (Even with two handed weapons)
+-Shooting in the gut can cause tension in the body to deal with the immense pain
+-Headshots are usually insta-ragdoll but with a chance of leg twitching, body tension, grabbing the wound
+-Better electrocuted effect, no more insta dropping and twitching but now targets will try to balance the muscle shock
+-Running peds over look more natural as they don't auto-roll over the car
+-Better bracing for impact reaction
+-Melee now looks much better with this new "grab where it hurts"-reaction, stabbing especially
+-Explosion make targets try and cover their heads from the blast, putting their hands above their head
+-And pushing people is now more easier and their balance is better
+-Probably a lot of shit I forgot, watch the video and pics and you see what I mean
+
+<b>Changelog 1.9.4:</b>
+
+-Euphoria stiffness set to absolute minimum
+-Improved bumping with car, not overdone
+-Gruesome hit and run physics
+-Car grabbing will not trash your car now and is not intrusive so it is enabled for everyone
+-Slowed tumbling down hill a bit
+
+<b>Changelog 1.9.3:</b>
+
+-Removed pedBounds file, balancer looks smooth without it now
+-Headshot trauma reactions now happen only when target is lying on ground and legpedaling is a lot more subtle now
+-Legshots have higher chance of knocking peds to the ground
+-Reduced shot reaction time from 2.5 secs to 1 sec (Means that peds who are balanced will blend back into animation after 1 sec)
+-2.ver available, no car grabbing and with car grabbing (peds try to grab any part of your car, no grab version still has door grab on)
+
+<b>Changelog 1.9.2:</b>
+
+-Removed Materials.dat, now using new parameter found in physicstask to modify friction
+-Fixed headshots in "NO TRAUMA" ver. no more leg pedaling when shooting with automatic weapons
+-Removed cheating forces when crashing with motorcycles resulting in much more realistic crashes
+-Minor adjustments
+
+<b>Changelog 1.9.1b (2.ver):</b>
+
+-Added optional "NO TRAUMA" ver. without leg pedaling headtrauma effect due to requests, original chance for headtrauma are 20 percent for the first bullet, 100 percent for second
+
+<b>Changelog 1.9.1:</b>
+
+-Accidentally uploaded my test files last time, these are the correct ones
+ with the new reactions, sorry for that...
+-Materials.dat supports bullet penetration for thin metals, wood etc
+
+<b>Changelog 1.9:</b>
+
+-*New file, Materials.Dat (More friction to peds)
+-Re-Visited every reaction to ensure best experience for all
+-Enabled IV style ped reaction when bumping with car, now they put their hands on the bonnet and try to step backwards,
+ it is a bit buggy sometimes because of GTA Vs clipping issues
+-Wound grabbing while falling enabled
+-Using now "drunk-style" balancing for reactions instead off staggerfall
+-I can't still use video editor to show these new features so you'll have to try 'em yourself
+
+<b>Changelog 1.8:</b>
+
+-Did everything from beginning (I'm now using behaviours.xml to modify parametres instead of physicstasks, physicstasks filesize pretty much half of what it was)
+-Better falling reaction to peds, more weighty (Body smack ftw)
+-Better highfall reaction, no more that weird in-air animation
+-Balancing adjusted to work with high and low weaponforces
+-Melee'ing no longer instadrops peds, now they stumble around
+-Bumping with car enabled, continued pushing will make peds try balance (If you stop pushing they might just ragdoll to the ground, no way to fix that for now. Keep pushing and they will balance till certain threshold)
+-Unarmed peds will now balance better aswell, don't know what was up with that
+-Explosion reactions redone
+-Taser reactions redone
+-Running over reactions redone
+-Rolldownstairs fake forces removed
+-R* editor won't let me make videos nomore dunno what's the problem
+-A LOT of shit done, test yourself and report any bugs, kiitos ja kuulemiin, thanks!
+
+<b>Changelog 1.7.6:</b>
+
+-Added .OIV install
+
+<b>Changelog 1.7.5:</b>
+
+-More Force to balance
+-Less stiff reactions to rolling, balancing etc
+-Took down grab strength even more
+
+<b>Changelog 1.7:</b>
+
+-Watch new vid!!
+-Added on-ground injuries, shooting alive ped on ground will give reaction (Extremely brutal!)
+-Better falling off ledge reaction
+-Further improvements to being shot reactions, no more straight up standing when shot, now spine will bend when shot in gut
+-Peds no longer try to block rolling reactions, now they roll in stairs and hills
+-Better falling over fence
+-Improved grabbing further, no superman forces anymore
+-Using no longer torque based balancing, means no more twitchyness
+
+<b>Changelog 1.6.6:</b>
+
+-Lowered grab strength a bit
+-Increased grab distance a bit
+
+<b>Changelog 1.6.5:</b>
+
+-Enabled grabbing cars, props, railings, surfaces etc
+-Increased grabbing time + strength
+-Fixed camera angle in PedBounds.xml
+
+<b>Changelog 1.6:</b>
+
+-Adjusted vehicle bailout even further, now part of main mod
+-Adjusted running peds over
+-Upped the amount of Euphoria characters from 3 to 10
+-Upped the amount of Rage ragdolls from 3 to 10
+-Small tweaks to balance
+
+<b>Changelog 1.5:</b>
+
+Watch video called "GTA V ERO 1.5-demo of combat and gta iv style bailing", it shows 1.5 in action and GTAIV style bailing
+-Added new option for GTA IV styled vehicle bailing, more friction
+-Adjusted balancing and reactions AGAIN... Now it is the smoothest it has ever been, starting to even feel remorse for taking some poor bastards life
+-Fixed targets falling only on back and stomach, now stumbling to sides possible
+-Ability to strip someone from their main weapon by shooting their trigger hand couple of times
+-Realistic crash friction and inertia are now included in both options, because why would someone not want that?
+-And finally I can't stress enough to use at least those weaponedits in recommended section to get the best out of this
+
+<b>Changelog 1.4:</b>
+
+-Added *pedbounds.xml* for better mass for peds and animals to enhance the falling effects, it also enables Euphoria for animals when pushing them, go shove those cows!!
+ It also removes "dies on ragdoll" flags for all animals
+
+<b>Changelog 1.3:</b>
+
+new feature *Realistic crashing friction and elasticity* completely optional but recommended for best reality, best used with increased deformation mod of sorts
+-Removes that weird bouncy crashes from game, now cars stick more to each other when crashing, check video for clarification
+-Also crashing friction multiplier set to 1.0 instead of 0.3 to have normal friction in crashes
+
+<b>Changelog 1.2:</b>
+
+-new file *behaviours.xml*
+-If on fire and alive, target will try to balance and not fall, however will fall if  moving fast
+-Peds have even more better balance when pushed
+-Removed cartoon'ish hand waving when falling backwards, will hold wound or fire weapon now
+-Fixed targets being too tensed up when shot to spine
+-Leg pedal effect increased on head trauma
+-Lowered balancing time a bit (No more 100m dashes with arms in front like a zombie:D)
+
+<b>Changelog 1.1:</b>
+
+A LOT of adjustments
+-Balancetime
+-Falltype
+-Woundholdtime
+-Falling over fences
+-Added twitching when shooting someone in the spine/ head
+-Player will now try to balance/ drop on knees/ randomly fire when killed
+-Pushing peds on foot much better more balance, not overdone anyway
+-Targets now hold wounds when shot on ground
+-Better reaction to melee
+-Better reaction to being run over (Didn't find the modifier for balancing
+ when pushing with car, still under work)
+
+ 
+<b>Recommended mods for the best experience:</b>
+<a href="https://www.gta5-mods.com/misc/gore-em-up/">Gore'em up</a>
+<a href="https://www.gta5-mods.com/weapons/real-o-weaponry">Real'o weaponry</a>
+<a href="https://www.gta5-mods.com/misc/zippo-raided-blood-gore">Anims for crawling</a> Enable those crawling peds by installing only the stuff that go into x64c.rpf
+
+<b>Installation (Manual):</b>
+<b>1.</b> Create folder called <b>naturalmotion</b> to
+GTAV/ update/ update.rpf/ common/data
+and place <b>behaviours.xml</b> there
+<b>2.</b> Copy <b>Physicstasks.ymt</b> to:
+GTAV/ update/ update.rpf/ x64/ data/ tune
+<b>3.</b> Copy <b>PedBounds.xml</b> to:
+GTAV/ update/ update.rpf/ common/data
+<b>IF</b> you still don't get these reactions to happen, install the <b>Physicstasks.ymt</b> to x64a.rpf/data/tune and
+<b>Behaviours.xml</b> to common.rpf/data/naturalmotion/ so that the game definately reads them
+
+<b>Uninstallation:</b>
+-Remove the file from tune folder
+-Remove "naturalmotion" folder
+-Remove PedBounds.xml from install location
+
+As always post bugs, suggestions and tips here!
